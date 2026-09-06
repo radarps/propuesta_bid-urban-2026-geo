@@ -16,23 +16,280 @@
 
 ## 📌 2. DATOS DE LA CONVOCATORIA SERCOP / MULTILATERAL
 - **Código del Proceso:** `BID-URBAN-2026-GEO`
-- **Entidad Contratante:** Banco Interamericano de Desarrollo / GAD Provincial
-- **Objeto de la Contratación:** Consultoría en Planificación Territorial, SIG y Resiliencia Urbana
-- **Presupuesto Referencial:** $95,000.00 USD
-- **Fecha Límite para Preguntas:** 2026-09-18
-- **Fecha Límite de Entrega de Ofertas:** 2026-10-02
-- **Enlace al Pliego Oficial en SERCOP:** [Consultar Pliego y Anexos en SOCE](https://www.iadb.org/es/project-procurement)
+- **Entidad Contratante:** Banco Interamericano de Desarrollo (BID) - División Urbana
+- **Objeto de la Contratación:** Consultoría Internacional Remota (90 días): Modelación Geoespacial y Análisis de Vulnerabilidad Urbana y Catastro en Ciudades Intermedias
+- **Presupuesto Referencial:** $35,000.00 USD
+- **Fecha Límite para Preguntas:** 2026-09-15 18:00
+- **Fecha Límite de Entrega de Ofertas:** 2026-10-02 16:00
+- **Enlace al Pliego Oficial en SERCOP:** [Consultar Pliego y Anexos en SOCE](https://www.iadb.org/es/trabaje-con-nosotros/adquisiciones-para-proyectos)
 
 ---
 
 ## 🎯 3. ESTRATEGIA Y EVALUACIÓN PREVIA (Score: 96/100 pts)
-- **Modalidad Recomendada:** `PARTICIPAR_IR_SOLOS`
+- **Modalidad Recomendada:** `IR_SOLOS`
 - **Puntos Fuertes Identificados:**
-  • Experiencia técnica acreditada en SIG y ordenamiento territorial (+360k USD)
-  • Personal clave disponible (Arq. José Vicente e Ing. Kevin Jiménez)
+  • •
+  •  
+  • 5
+  •  
+  • c
+  • o
+  • n
+  • t
+  • r
+  • a
+  • t
+  • o
+  • s
+  •  
+  • a
+  • f
+  • i
+  • n
+  • e
+  • s
+  •  
+  • (
+  • $
+  • 3
+  • 6
+  • 0
+  • k
+  • )
+  • :
+  •  
+  • P
+  • i
+  • n
+  • d
+  • a
+  • l
+  •  
+  • (
+  • $
+  • 7
+  • 8
+  • .
+  • 4
+  • k
+  • )
+  • ,
+  •  
+  • C
+  • h
+  • a
+  • g
+  • u
+  • a
+  • r
+  • p
+  • a
+  • m
+  • b
+  • a
+  •  
+  • (
+  • $
+  • 6
+  • 8
+  • .
+  • 2
+  • k
+  • )
+  • ,
+  •  
+  • P
+  • a
+  • q
+  • u
+  • i
+  • s
+  • h
+  • a
+  •  
+  • (
+  • $
+  • 5
+  • 3
+  • .
+  • 5
+  • k
+  • )
+  • ,
+  •  
+  • M
+  • a
+  • c
+  • a
+  • r
+  • á
+  •  
+  • (
+  • $
+  • 4
+  • 1
+  • .
+  • 5
+  • k
+  • )
+  • .
+  • 
+
+  • •
+  •  
+  • D
+  • i
+  • r
+  • e
+  • c
+  • c
+  • i
+  • ó
+  • n
+  •  
+  • t
+  • é
+  • c
+  • n
+  • i
+  • c
+  • a
+  • :
+  •  
+  • J
+  • o
+  • s
+  • é
+  •  
+  • V
+  • i
+  • c
+  • e
+  • n
+  • t
+  • e
+  •  
+  • O
+  • r
+  • d
+  • ó
+  • ñ
+  • e
+  • z
+  •  
+  • c
+  • u
+  • m
+  • p
+  • l
+  • e
+  •  
+  • 4
+  • t
+  • o
+  •  
+  • n
+  • i
+  • v
+  • e
+  • l
+  •  
+  • y
+  •  
+  • d
+  • i
+  • r
+  • e
+  • c
+  • c
+  • i
+  • ó
+  • n
+  •  
+  • d
+  • e
+  • m
+  • o
+  • s
+  • t
+  • r
+  • a
+  • d
+  • a
+  • .
 
 - **Requisitos Críticos a Subsanar / Asegurar en la Oferta:**
-  • Asegurar certificaciones ambientales de los especialistas
+  • •
+  •  
+  • C
+  • o
+  • n
+  • f
+  • i
+  • r
+  • m
+  • a
+  • r
+  •  
+  • d
+  • i
+  • s
+  • p
+  • o
+  • n
+  • i
+  • b
+  • i
+  • l
+  • i
+  • d
+  • a
+  • d
+  •  
+  • e
+  • n
+  •  
+  • c
+  • a
+  • m
+  • p
+  • o
+  •  
+  • d
+  • e
+  •  
+  • e
+  • s
+  • p
+  • e
+  • c
+  • i
+  • a
+  • l
+  • i
+  • s
+  • t
+  • a
+  •  
+  • a
+  • m
+  • b
+  • i
+  • e
+  • n
+  • t
+  • a
+  • l
+  •  
+  • a
+  • s
+  • i
+  • g
+  • n
+  • a
+  • d
+  • o
+  • .
 
 ---
 
@@ -49,7 +306,7 @@ Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** 
 2. **`02_MATRIZ_EVALUACION_TECNICA.xlsx` o `.md`**:
    - Detallar la tabla de puntaje (experiencia de la firma, experiencia del personal, plan de trabajo) asegurando 100/100 puntos.
 3. **`03_PRESUPUESTO_DESGLOSADO.xlsx` o `.md`**:
-   - Tabla de costos directos (honorarios expertos, trabajo de campo, talleres participativos) e indirectos, ajustada exactamente a los $95,000.00 USD.
+   - Tabla de costos directos (honorarios expertos, trabajo de campo, talleres participativos) e indirectos, ajustada exactamente a los $35,000.00 USD.
 4. **`04_FORMULARIOS_COMPROMISO_SERCOP.md`**:
    - Formatos estandarizados de compromiso de personal técnico y equipo asignado.
 
