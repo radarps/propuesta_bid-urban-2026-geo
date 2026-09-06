@@ -1,0 +1,31 @@
+{
+  "convocatoria": {
+    "codigo_proceso": "BID-URBAN-2026-GEO",
+    "entidad": "Banco Interamericano de Desarrollo / GAD Provincial",
+    "objeto": "Consultoría en Planificación Territorial, SIG y Resiliencia Urbana",
+    "presupuesto_usd": 95000.0,
+    "fecha_preguntas": "2026-09-18",
+    "fecha_ofertas": "2026-10-02",
+    "url_pliego": "https://www.iadb.org/es/project-procurement"
+  },
+  "evaluacion": {
+    "score": 96,
+    "veredicto": "PARTICIPAR_IR_SOLOS",
+    "puntos_fuertes": [
+      "Experiencia técnica acreditada en SIG y ordenamiento territorial (+360k USD)",
+      "Personal clave disponible (Arq. José Vicente e Ing. Kevin Jiménez)"
+    ],
+    "puntos_debiles": [
+      "Asegurar certificaciones ambientales de los especialistas"
+    ]
+  },
+  "empresa": {
+    "nombre": "Planning & Solution S.A.",
+    "ruc": "1793138841001",
+    "experiencia_usd": 360000.0,
+    "equipo": [
+      "Arq. José Vicente",
+      "Ing. Kevin Jiménez"
+    ]
+  }
+}
