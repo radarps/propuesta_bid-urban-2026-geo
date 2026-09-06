@@ -1,8 +1,8 @@
 # Propuesta Técnica: BID-URBAN-2026-GEO
 > **Empresa Proponente:** Planning & Solution S.A.  
-> **Entidad Contratante:** Banco Interamericano de Desarrollo / GAD Provincial  
-> **Presupuesto Referencial:** $95,000.00 USD  
-> **Calificación de Viabilidad:** 96 / 100 pts (PARTICIPAR_IR_SOLOS)  
+> **Entidad Contratante:** Banco Interamericano de Desarrollo (BID) - División Urbana  
+> **Presupuesto Referencial:** $35,000.00 USD  
+> **Calificación de Viabilidad:** 96 / 100 pts (IR_SOLOS)  
 
 ---
 
@@ -19,6 +19,6 @@ Este repositorio contiene el contexto y los requerimientos completos para que cu
 
 ---
 ### 📂 Documentación y Enlaces Oficiales
-- 📄 [Ver Pliego Oficial en el Portal SERCOP](https://www.iadb.org/es/project-procurement)
+- 📄 [Ver Pliego Oficial en el Portal SERCOP](https://www.iadb.org/es/trabaje-con-nosotros/adquisiciones-para-proyectos)
 - 📋 [Ver Briefing Maestro para la IA](./PROMPT_PARA_IA.md)
 - 📊 [Ver Datos Estructurados JSON](./contexto_licitacion.json)
