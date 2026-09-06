@@ -1,23 +1,21 @@
 {
   "convocatoria": {
     "codigo_proceso": "BID-URBAN-2026-GEO",
-    "entidad": "Banco Interamericano de Desarrollo / GAD Provincial",
-    "objeto": "Consultoría en Planificación Territorial, SIG y Resiliencia Urbana",
-    "presupuesto_usd": 95000.0,
-    "fecha_preguntas": "2026-09-18",
-    "fecha_ofertas": "2026-10-02",
-    "url_pliego": "https://www.iadb.org/es/project-procurement"
+    "entidad": "Banco Interamericano de Desarrollo (BID) - División Urbana",
+    "objeto": "Consultoría Internacional Remota (90 días): Modelación Geoespacial y Análisis de Vulnerabilidad Urbana y Catastro en Ciudades Intermedias",
+    "presupuesto_usd": 35000.0,
+    "plazo_dias": 90,
+    "fecha_preguntas": "2026-09-15 18:00",
+    "fecha_ofertas": "2026-10-02 16:00",
+    "url_pliego": "https://www.iadb.org/es/trabaje-con-nosotros/adquisiciones-para-proyectos",
+    "fuente": "BID"
   },
   "evaluacion": {
     "score": 96,
-    "veredicto": "PARTICIPAR_IR_SOLOS",
-    "puntos_fuertes": [
-      "Experiencia técnica acreditada en SIG y ordenamiento territorial (+360k USD)",
-      "Personal clave disponible (Arq. José Vicente e Ing. Kevin Jiménez)"
-    ],
-    "puntos_debiles": [
-      "Asegurar certificaciones ambientales de los especialistas"
-    ]
+    "veredicto": "IR_SOLOS",
+    "veredicto_label": "🟢 IR SOLOS (100% CAPACIDAD PROPIA P&S)",
+    "puntos_fuertes": "• 5 contratos afines ($360k): Pindal ($78.4k), Chaguarpamba ($68.2k), Paquisha ($53.5k), Macará ($41.5k).\n• Dirección técnica: José Vicente Ordóñez cumple 4to nivel y dirección demostrada.",
+    "puntos_debiles": "• Confirmar disponibilidad en campo de especialista ambiental asignado."
   },
   "empresa": {
     "nombre": "Planning & Solution S.A.",
