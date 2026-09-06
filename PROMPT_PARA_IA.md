@@ -1,16 +1,16 @@
 # 🤖 BRIEFING Y PROMPT MAESTRO PARA AGENTE DE IA
-> **Herramientas recomendadas:** Claude Code, Cursor, OpenAI Codex, Google Antigravity, GitHub Copilot.
+> **Herramientas compatibles:** Google Antigravity, Claude Code, Cursor, OpenAI Codex, VS Code Copilot.
 
 ---
 
-## 🏢 1. IDENTIDAD DE LA EMPRESA CONSULTORA
-- **Empresa:** Planning & Solution S.A.
-- **RUC:** 1793138841001
-- **Especialidad:** Planificación Territorial (normativa LOOTUGS), Actualización integral de PDOT y PUGS, Catastro Multifinalitario, Cartografía SIG, Planes de Movilidad Urbana Sostenible.
-- **Experiencia Demostrada:** Más de $360,000.00 USD en contratos adjudicados y ejecutados a entera satisfacción con GADs Cantonales y Provinciales en Ecuador.
+## 🏢 1. IDENTIDAD Y EXPERIENCIA DE PLANNING & SOLUTION S.A.
+- **Empresa:** Planning & Solution S.A. (RUC: 1793138841001)
+- **Especialidad:** Planificación Territorial (LOOTUGS), Actualización integral de PDOT y PUGS, Catastro Multifinalitario, Cartografía SIG, Planes de Movilidad Urbana.
+- **Experiencia Demostrada:** Más de $360,000.00 USD en contratos adjudicados y concluidos con éxito con GADs Cantonales y Provinciales en Ecuador.
 - **Equipo Técnico Clave:**
-  - **Director de Proyecto:** Arq. José Vicente (Especialista en Urbanismo y Ordenamiento Territorial, +15 años de experiencia).
+  - **Director de Proyecto:** Arq. José Vicente (Urbanista y Planificador Territorial, +15 años de experiencia en normativa LOOTUGS).
   - **Coordinador Técnico / SIG:** Ing. Kevin Jiménez (Especialista en Geotecnologías, Catastro y Cartografía Temática).
+- **Grafo de Conocimiento Adjunto:** En este repositorio tienes el archivo `knowledge_graph.json` con el detalle de todos los contratos anteriores, actas de entrega y montos certificados para citar en la propuesta.
 
 ---
 
@@ -21,7 +21,7 @@
 - **Presupuesto Referencial:** $35,000.00 USD
 - **Fecha Límite para Preguntas:** 2026-09-15 18:00
 - **Fecha Límite de Entrega de Ofertas:** 2026-10-02 16:00
-- **Enlace al Pliego Oficial en SERCOP:** [Consultar Pliego y Anexos en SOCE](https://www.iadb.org/es/trabaje-con-nosotros/adquisiciones-para-proyectos)
+- **Enlace al Pliego Oficial en SERCOP:** [Consultar Pliego Oficial en SOCE](https://www.iadb.org/es/trabaje-con-nosotros/adquisiciones-para-proyectos)
 
 ---
 
@@ -218,7 +218,7 @@
   • a
   • .
 
-- **Requisitos Críticos a Subsanar / Asegurar en la Oferta:**
+- **Requisitos Críticos a Asegurar en la Oferta:**
   • •
   •  
   • C
@@ -295,7 +295,7 @@
 
 ## 🚀 4. TU MISIÓN COMO AGENTE DE IA:
 Actúa como el **Director de Licitaciones y Consultoría de Planning & Solution S.A.**  
-Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** dentro de este mismo repositorio:
+Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** dentro de este repositorio:
 
 ### Entregables Requeridos:
 1. **`01_METODOLOGIA_TECNICA.md`**:
@@ -304,11 +304,22 @@ Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** 
      - *Fase 2:* Formulación del plan con articulación estricta a la normativa LOOTUGS, ODS y directrices de la entidad.
      - *Fase 3:* Modelo de gestión, cartera de proyectos priorizados, cronograma de hitos y presupuesto valorado.
 2. **`02_MATRIZ_EVALUACION_TECNICA.xlsx` o `.md`**:
-   - Detallar la tabla de puntaje (experiencia de la firma, experiencia del personal, plan de trabajo) asegurando 100/100 puntos.
+   - Detallar la tabla de puntaje (experiencia de la firma, experiencia del personal, plan de trabajo) asegurando 100/100 puntos basándote en `knowledge_graph.json`.
 3. **`03_PRESUPUESTO_DESGLOSADO.xlsx` o `.md`**:
    - Tabla de costos directos (honorarios expertos, trabajo de campo, talleres participativos) e indirectos, ajustada exactamente a los $35,000.00 USD.
 4. **`04_FORMULARIOS_COMPROMISO_SERCOP.md`**:
    - Formatos estandarizados de compromiso de personal técnico y equipo asignado.
 
 ---
-*Instrucciones de entrega: Una vez que generes estos archivos, realiza un commit con el mensaje `feat(propuesta): oferta tecnica completa para BID-URBAN-2026-GEO` y realiza push a la rama main.*
+
+## 📁 5. FORMALIZACIÓN Y ENTREGA
+Una vez que generes todos los entregables de la propuesta:
+1. Mueve los borradores e instrucciones (`PROMPT_PARA_IA.md`) a una subcarpeta `_insumos/` o elimínalos para dejar el repositorio limpio.
+2. Actualiza el archivo `README.md` para que sea la **Carátula Ejecutiva Formal** de la oferta técnica presentada por Planning & Solution S.A. ante la entidad contratante.
+3. Para hacer push a GitHub sin necesidad de contraseñas, utiliza este enlace autenticado:
+   ```bash
+   git remote set-url origin https://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@github.com/radarps/propuesta_bid-urban-2026-geo.git
+   git add .
+   git commit -m "feat(propuesta): oferta tecnica y economica oficial para BID-URBAN-2026-GEO"
+   git push origin main
+   ```
